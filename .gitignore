@@ -1,0 +1,12 @@
+# User-specific files
+*.user
+
+# Files built by VS
+*.log
+
+# Build Results
+[Dd]ebug/
+[Rr]elease/
+
+# cache
+.vs/
